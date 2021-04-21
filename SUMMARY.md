@@ -18,6 +18,6 @@
 * [Support](resources/support.md)
 * [FAQ](resources/faq.md)
 * [Blog](https://blog.invana.io)
-* [Github](https://github.com/invanalabs)
+* [Opensource](https://github.com/invanalabs)
 * [invana website](https://invana.io)
 
