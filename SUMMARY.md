@@ -2,9 +2,9 @@
 
 * [What is Invana](README.md)
 
-## 📌Get started
+## 📌Getting started <a id="get-started"></a>
 
-* [Get started](get-started/get-started.md)
+* [Quick start](get-started/quick-start.md)
 
 ## Products
 
