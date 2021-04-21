@@ -2,6 +2,10 @@
 
 * [What is Invana](README.md)
 
+## 📌Get started
+
+* [Get started](get-started/get-started.md)
+
 ## Products
 
 ---
@@ -18,8 +22,9 @@
 
 ## Resources
 
-* [Changelog](resources/changelog.md)
+* [Use cases](resources/use-cases.md)
 * [Support](resources/support.md)
+* [Changelog](resources/changelog.md)
 * [FAQ](resources/faq.md)
 * [Blog](https://blog.invana.io)
 * [Opensource](https://github.com/invanalabs)
