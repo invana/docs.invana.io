@@ -1,4 +1,4 @@
-# Graph API
+# GraphQL API
 
 ## Getting Super Powers
 

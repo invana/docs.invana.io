@@ -9,7 +9,7 @@
 * [Invana Studio](invana-studio.md)
 * [Invana Engine](invana-engine/README.md)
   * [Python API](invana-engine/python-api.md)
-  * [Graph API](invana-engine/graphql-api.md)
+  * [GraphQL API](invana-engine/graphql-api.md)
 * [Invana Cloud](invana-cloud.md)
 
 ## Integrations
