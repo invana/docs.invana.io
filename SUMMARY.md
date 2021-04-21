@@ -14,7 +14,6 @@
 * [Invana Engine](invana-engine/README.md)
   * [Python API](invana-engine/python-api.md)
   * [GraphQL API](invana-engine/graphql-api.md)
-* [Invana Cloud](invana-cloud.md)
 
 ## Integrations
 
