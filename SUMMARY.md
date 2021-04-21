@@ -12,6 +12,10 @@
   * [Graph API](invana-engine/graphql-api.md)
 * [Invana Cloud](invana-cloud.md)
 
+## Integrations
+
+* [Scrapy](integrations/scrapy.md)
+
 ## Resources
 
 * [Changelog](resources/changelog.md)
