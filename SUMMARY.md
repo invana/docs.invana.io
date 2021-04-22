@@ -17,9 +17,9 @@
 
 ---
 
-* [Invana Engine](invana-engine/README.md)
-  * [Python API](invana-engine/python-api.md)
-  * [GraphQL API](invana-engine/graphql-api.md)
+* [Python API User Guide](python-api.md)
+* [GraphQL API User Guide](graphql-api.md)
+* [Apache TinkerPop' Gremlin Language Guide](apache-tinkerpop-gremlin-language-guide.md)
 
 ## Integrations
 
