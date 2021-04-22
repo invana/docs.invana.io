@@ -11,6 +11,12 @@
 ---
 
 * [Invana Studio](invana-studio.md)
+* [Invana Engine](invana-engine-1.md)
+
+## Developer's Guide
+
+---
+
 * [Invana Engine](invana-engine/README.md)
   * [Python API](invana-engine/python-api.md)
   * [GraphQL API](invana-engine/graphql-api.md)
