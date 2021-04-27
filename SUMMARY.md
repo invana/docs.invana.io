@@ -10,8 +10,12 @@
 
 ---
 
-* [Invana Studio](invana-studio.md)
-* [Invana Engine](invana-engine-1.md)
+* [Invana Engine](invana-engine-1/README.md)
+  * [Installing Invana Engine](invana-engine-1/installing-invana-engine.md)
+* [Invana Studio](invana-studio/README.md)
+  * [Installing Invana Studio](invana-studio/installing-invana-studio.md)
+  * [Connecting Invana Engine](invana-studio/connecting-invana-engine.md)
+  * [Querying the Graph](invana-studio/querying-the-graph.md)
 
 ## Developer's Guide
 
@@ -19,7 +23,6 @@
 
 * [Python API User Guide](python-api.md)
 * [GraphQL API User Guide](graphql-api.md)
-* [Apache TinkerPop' Gremlin Language Guide](apache-tinkerpop-gremlin-language-guide.md)
 
 ## Integrations
 
