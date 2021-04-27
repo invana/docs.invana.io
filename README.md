@@ -1,29 +1,23 @@
 ---
-description: Invana is an informed decision making platform powered by Graph data.
+description: An open source Graph Analytics Platform.
 ---
 
 # Invana Documentation
 
-## Getting Super Powers
+Any data, that is well modelled and has knowledge about all the relationships and weights with in the entities of the system can give better insights for making Informed Decision.
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
+Invana let's you model the data as connected Graph of entities and relationships. You can extract insights from data by applying models like reasoning, natural language processing. These models help you with learning relationships, predicting patterns and perform advanced analytics on connected data.
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Invana provides solutions for Graph Powered Analytics And Machine Learning.
 {% endhint %}
 
-Once you're strong enough, save the world:
+### How Invana works:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+1. **Model your system** with the labels of entities and relationships.
+2. **Import data** using python SDK or GraphQL API.
+3. **Setup Functions** on Entities and Relationships to teach and learn patterns with in the Graph.
+4. **Query and Visualise** inferences, reasoning and analytics data as force directed graphs.
 
-
+Build a Knowledge Graph in few minutes, get started [here](get-started/quick-start.md)
 

@@ -27,6 +27,7 @@
 
 ## Resources
 
+* [Terminology](resources/terminology.md)
 * [Use cases](resources/use-cases.md)
 * [Support](resources/support.md)
 * [Changelog](resources/changelog.md)
