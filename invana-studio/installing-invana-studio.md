@@ -1,6 +1,6 @@
 # Installing Invana Studio
 
-## Installing Using Docker 
+## Using Docker 
 
 ```
 $ docker run -p 8888:8888 -d --name invana-studio invanalabs/invana-studio

@@ -1,6 +1,6 @@
 # Installing Invana Engine
 
-## Installing using Docker
+## Using Docker
 
 ```
 $ docker run -p 8200:8200 -d  -e GREMLIN_SERVER_URL=ws://xx.xx.xx.xx:8182/gremlin --name invana-engine invanalabs/invana-engine 
