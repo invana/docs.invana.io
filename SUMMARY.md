@@ -12,9 +12,10 @@
 
 * [Invana Engine](invana-engine-1/README.md)
   * [Installing Invana Engine](invana-engine-1/installing-invana-engine.md)
+  * [Connecting to Graph Database](invana-engine-1/connecting-to-graph-database.md)
 * [Invana Studio](invana-studio/README.md)
   * [Installing Invana Studio](invana-studio/installing-invana-studio.md)
-  * [Connecting Invana Engine](invana-studio/connecting-invana-engine.md)
+  * [Connecting to Invana Engine](invana-studio/connecting-to-invana-engine.md)
   * [Querying the Graph](invana-studio/querying-the-graph.md)
 
 ## Developer's Guide
