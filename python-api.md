@@ -1,7 +1,5 @@
 # Python API User Guide
 
-## Installing python SDK
-
 ### Installing Python SDK for Invana Engine
 
 ```
