@@ -1,12 +1,20 @@
 # Python API User Guide
 
+## Installing python SDK
+
 ### Installing Python SDK for Invana Engine
 
 ```
-$ pip install invana-engine
+$ pip3 install invana-engine
 ```
 
+{% hint style="info" %}
+Supports Python 3.8 only  
+{% endhint %}
+
 ### Connecting to Invana Engine
+
+
 
 ```python
 from invana_engine.gremlin.client import InvanaEngineClient
