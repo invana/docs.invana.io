@@ -6,7 +6,7 @@ description: Architecture of Invana Platform
 
 ![invana architecture](.gitbook/assets/image%20%281%29.png)
 
-To ease the development and maintainability of the product, Invana System is built as four main services, of which only first two services are developed and maintained by Invana:
+To ease the development and maintainability of the product, Invana System is built as four main services, of which only first two services in the below list are developed and maintained by Invana:
 
 | Service Name | Service Description |
 | :--- | :--- |
