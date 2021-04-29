@@ -50,7 +50,7 @@ In theory, you can run any Apache TinkerPop supported graph database as graph pr
 
 Docker compose will expose the following services, that lets you visualise and browse through the graph data. 
 
+Let's start with a story of graph.
 
-
-
+{% page-ref page="story-of-stars.md" %}
 
