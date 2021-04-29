@@ -12,7 +12,6 @@
 
 * [Invana Engine](invana-engine-1/README.md)
   * [Installing Invana Engine](invana-engine-1/installing-invana-engine.md)
-  * [Supported graph databases](invana-engine-1/supported-graph-databases.md)
   * [Connecting to Graph Database](invana-engine-1/connecting-to-graph-database.md)
 * [Invana Studio](invana-studio/README.md)
   * [Installing Invana Studio](invana-studio/installing-invana-studio.md)

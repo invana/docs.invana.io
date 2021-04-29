@@ -4,7 +4,7 @@ description: Get started with Invana and build a knowledge graph with in minutes
 
 # Setup Invana in 5 minutes
 
-Invana Graph Analytics System can be deployed in your local or cloud using docker.
+Invana Graph Analytics System can be deployed in your local or cloud using [docker compose](https://docs.docker.com/compose/).
 
 ### Invana Architecture
 
@@ -16,8 +16,6 @@ To ease the development and maintainability of the product, Invana System is bui
 | Invana Studio | Web based GUI and management app for graph data.  |
 | Apache TinkerPop | Apache TinkerPop™ is an open source, vendor-agnostic, graph computing framework. |
 | Graph Database |  Any graph database that supports Apache TinkerPop as graph processor. |
-
-
 
 ### Install and Setup Invana System
 
@@ -45,7 +43,12 @@ docker-compose up
 In theory, you can run any Apache TinkerPop supported graph database as graph processing engine with Invana.
 {% endhint %}
 
-Starting the service 
+| service name | service available at |
+| :--- | :--- |
+| Invana Engine | http://&lt;ip-address&gt;:9200 |
+| Invana Studio | http://&lt;ip-address&gt;:8888 |
+
+Docker compose will expose the following services, that lets you visualise and browse through the graph data. 
 
 
 
