@@ -63,11 +63,28 @@ earth_data_get_or_created = client.vertex.get_or_create(
 
 #### client.vertex.read\_one\(element\_id\)
 
-| param name | param description |
-| :--- | :--- |
-| element\_id | vertex id |
+| param name | data type | param description |
+| :--- | :--- | :--- |
+| element\_id | str or int | vertex id |
 
 ```text
 earth_data = client.vertex.read_one(earth_data.id)
 ```
+
+#### client.vertex.read\_many\(label=None, query=None, limit=None, skip=None\)
+
+| param name | data type | param description |
+| :--- | :--- | :--- |
+| label | string | Vertex label |
+| query | dict | key, value pairs of properties |
+| limit | int | number of items to limit |
+| skip | int | number of items to skip |
+
+```text
+planets_data = client.vertex.read_many(label="Planet", query={"name": "Earth"}, limit=10, skip=1)
+```
+
+
+
+
 
