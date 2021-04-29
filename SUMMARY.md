@@ -22,7 +22,9 @@
 
 ---
 
-* [Python API User Guide](python-api.md)
+* [Python API User Guide](python-api/README.md)
+  * [Untitled](python-api/untitled.md)
+  * [CRUD Operations on Vertex](python-api/crud-operations-on-vertex.md)
 * [GraphQL API User Guide](graphql-api.md)
 
 ## Integrations
