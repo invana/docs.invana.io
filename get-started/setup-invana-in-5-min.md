@@ -8,13 +8,13 @@ Invana Graph Analytics System can be deployed in your local or cloud using docke
 
 ### Invana Architecture
 
-To ease the development and maintainability of the product, Invana System is built as four main services:
+To ease the development and maintainability of the product, Invana System is built as four main services, of which only first two services are developed and maintained by Invana:
 
 | Service Name | Service Description |
 | :--- | :--- |
 | Invana Engine | Python and GraphQL API for Apache TinkerPop supported graph databases.  |
 | Invana Studio | Web based GUI and management app for graph data.  |
-| Apache TinkerPop | _Apache TinkerPop_™ is an open source, vendor-agnostic, graph computing framework. |
+| Apache TinkerPop | Apache TinkerPop™ is an open source, vendor-agnostic, graph computing framework. |
 | Graph Database |  Any graph database that supports Apache TinkerPop as graph processor. |
 
 
@@ -45,7 +45,7 @@ docker-compose up
 In theory, you can run any Apache TinkerPop supported graph database as graph processing engine with Invana.
 {% endhint %}
 
-
+Starting the service 
 
 
 
