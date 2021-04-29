@@ -21,7 +21,12 @@ client = InvanaEngineClient(gremlin_server_url=gremlin_server_url)
 
 ### Operations on Vertex
 
-#### vertex.create
+#### client.vertex.create\(label=None, properties=None\)
+
+| param name | param description |
+| :--- | :--- |
+| label | Vertex label |
+| properties | key, value pairs of properties data |
 
 ```python
 earth_label = "Planet"
@@ -36,12 +41,12 @@ earth_data = client.vertex.create(
 )
 ```
 
-#### vertex.get\_or\_created\(label=None, properties=None\)
+#### client.vertex.get\_or\_created\(label=None, properties=None\)
 
 | param name | param description |
 | :--- | :--- |
 | label | Vertex label |
-| properties | key, value pairs of properties |
+| properties | key, value pairs of properties data |
 
 ```python
 earth_label = "Planet"
@@ -56,7 +61,11 @@ earth_data_get_or_created = client.vertex.get_or_create(
 )
 ```
 
-#### vertex.read\_one\(element\_id\)
+#### client.vertex.read\_one\(element\_id\)
+
+| param name | param description |
+| :--- | :--- |
+| element\_id | vertex id |
 
 ```text
 earth_data = client.vertex.read_one(earth_data.id)
