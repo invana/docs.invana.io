@@ -12,6 +12,8 @@ Invana let's you model the data as connected Graph of entities and relationships
 Invana provides solutions for Graph Powered Analytics And Machine Learning.
 {% endhint %}
 
+![Invana architecture](.gitbook/assets/image.png)
+
 ### How Invana works:
 
 1. **Model your system** with the labels of entities and relationships.

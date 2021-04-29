@@ -1,5 +1,5 @@
 ---
-description: A graph of two stars in the universe - sun and Alpha Centauri
+description: A graph of two stars in the universe - Sun and Alpha Centauri
 ---
 
 # Story of stars

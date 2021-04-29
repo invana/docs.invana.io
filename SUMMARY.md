@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Invana Documentation](README.md)
+* [Invana Platform](invana-platform.md)
 
 ## 📌 Getting started <a id="get-started"></a>
 
