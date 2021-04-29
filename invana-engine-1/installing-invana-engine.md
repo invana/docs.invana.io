@@ -4,7 +4,7 @@ Invana Engine connects to the Apache TinkerPop's Gremlin Server's for communicat
 
 ![](../.gitbook/assets/invana-engine-graph-db-setup.svg)
 
-## Using Docker
+### Running using Docker
 
 ```
 $ docker run -p 8200:8200 -d  -e GREMLIN_SERVER_URL=ws://xx.xx.xx.xx:8182/gremlin --name invana-engine invanalabs/invana-engine 
@@ -20,5 +20,18 @@ Invana Engine will be available at http://&lt;ip-address:8200&gt;. Following Doc
 
 {% hint style="info" %}
 You can explore docker compose templates from [here](https://github.com/invanalabs/invana-engine/tree/develop/docker-templates) to deploy Invana Engine with Analytics Infrastructure with any of Invana supported Graph databases.
+{% endhint %}
+
+### Running using Python server \(standalone\)
+
+```text
+pip3 install invana-engine
+
+export GREMLIN_SERVER_URL=ws://xx.xx.xx.xx:8182/gremlin
+invana-engine-start
+```
+
+{% hint style="warning" %}
+Running python server via this implementation is not designed for production setup. Please use docker for production deployments 
 {% endhint %}
 

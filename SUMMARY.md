@@ -4,7 +4,7 @@
 
 ## 📌Getting started <a id="get-started"></a>
 
-* [Quick start](get-started/quick-start.md)
+* [Setup Invana in 5 minutes](get-started/setup-invana-in-5-min.md)
 
 ## Products
 
@@ -12,6 +12,7 @@
 
 * [Invana Engine](invana-engine-1/README.md)
   * [Installing Invana Engine](invana-engine-1/installing-invana-engine.md)
+  * [Supported graph databases](invana-engine-1/supported-graph-databases.md)
   * [Connecting to Graph Database](invana-engine-1/connecting-to-graph-database.md)
 * [Invana Studio](invana-studio/README.md)
   * [Installing Invana Studio](invana-studio/installing-invana-studio.md)
@@ -23,8 +24,8 @@
 ---
 
 * [Python API User Guide](python-api/README.md)
-  * [Untitled](python-api/untitled.md)
-  * [CRUD Operations on Vertex](python-api/crud-operations-on-vertex.md)
+  * [Edge Operations](python-api/edge-operations.md)
+  * [Vertex Operations](python-api/vertex-operations.md)
 * [GraphQL API User Guide](graphql-api.md)
 
 ## Integrations
