@@ -4,9 +4,9 @@
 
 ## 📌 Getting started <a id="get-started"></a>
 
-* [Invana Platform](get-started/invana-platform.md)
-* [Setup Invana](get-started/deploy-invana.md)
-* [Story of stars](get-started/story-of-stars.md)
+* [Get started with Invana](get-started/get-started.md)
+* [Setup Invana in minutes](get-started/deploy-invana.md)
+* [Build your first Graph](get-started/build-your-first-graph.md)
 
 ## Products
 

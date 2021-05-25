@@ -2,7 +2,7 @@
 description: Get started with Invana and build a knowledge graph with in minutes.
 ---
 
-# Setup Invana
+# Setup Invana in minutes
 
 Invana Graph Analytics System can be deployed in your local or cloud using [docker compose](https://docs.docker.com/compose/).
 
@@ -41,5 +41,5 @@ Docker compose will expose the following services, that lets you visualise and b
 
 Let's start with a story of graph.
 
-{% page-ref page="story-of-stars.md" %}
+{% page-ref page="build-your-first-graph.md" %}
 

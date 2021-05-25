@@ -2,7 +2,7 @@
 description: The technology that enables graph analytics at Invana
 ---
 
-# Invana Platform
+# Get started with Invana
 
 ![invana architecture](../.gitbook/assets/image%20%281%29.png)
 
