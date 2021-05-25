@@ -13,7 +13,7 @@
   * [Get Started](invana-studio/get-started.md)
 * [Invana Engine](invana-engine/README.md)
   * [Get Started](invana-engine/get-started.md)
-  * [other installation methods](invana-engine/installing.md)
+  * [other installation methods](invana-engine/other-installation-methods.md)
 
 ## Developer Resources <a id="developers-resources"></a>
 
@@ -28,12 +28,9 @@
 
 ## Resources
 
-* [Terminology](resources/terminology.md)
-* [Use cases](resources/use-cases.md)
-* [Support](resources/support.md)
-* [Changelog](resources/changelog.md)
 * [FAQ](resources/faq.md)
+* [Support](http://invana.io/support)
 * [Blog](https://blog.invana.io)
-* [Opensource](https://github.com/invanalabs)
-* [invana website](https://invana.io)
+* [Opensource @ Invana](https://github.com/invanalabs)
+* [invana.io 🚀](https://invana.io)
 
