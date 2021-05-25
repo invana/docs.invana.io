@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Invana Documentation](README.md)
+* [Invana Docs](README.md)
 
 ## 📌 Getting started <a id="get-started"></a>
 
 * [Get started with Invana](get-started/get-started.md)
-* [Setup Invana in minutes](get-started/deploy-invana.md)
+* [Setup Invana](get-started/setup-invana.md)
 * [Build your first Graph](get-started/build-your-first-graph.md)
 
 ## Products
