@@ -4,7 +4,7 @@
 
 ## 📌 Getting started <a id="get-started"></a>
 
-* [Get started with Invana](get-started/get-started.md)
+* [Get started with Invana](get-started/index.md)
 * [Setup Invana](get-started/setup-invana.md)
 * [Build your first Graph](get-started/build-your-first-graph.md)
 
