@@ -5,7 +5,7 @@
 
 ## 📌 Getting started <a id="get-started"></a>
 
-* [Setup Invana in 5 minutes](get-started/setup-invana-in-5-min.md)
+* [Setup Invana in 5 minutes](get-started/install-invana.md)
 * [Story of stars](get-started/story-of-stars.md)
 
 ## Products
