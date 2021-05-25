@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Invana Documentation](README.md)
-* [Invana Platform](invana-platform.md)
 
 ## 📌 Getting started <a id="get-started"></a>
 
+* [Invana Platform](get-started/invana-platform.md)
 * [Setup Invana in 5 minutes](get-started/install-invana.md)
 * [Story of stars](get-started/story-of-stars.md)
 
