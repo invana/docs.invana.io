@@ -5,6 +5,13 @@
 * [Setup Invana](setup-invana.md)
 * [Build your first Graph](build-your-first-graph.md)
 
+## Developer Resources <a id="developers-resources"></a>
+
+* [Python API User Guide](developers-resources/python-api/README.md)
+  * [Vertex Operations](developers-resources/python-api/vertex-operations.md)
+  * [Edge Operations](developers-resources/python-api/edge-operations.md)
+* [External Resources 💫](developers-resources/external-resources.md)
+
 ## Products
 
 ---
@@ -16,15 +23,6 @@
   * [Installing Invana Studio](invana-studio/installing-invana-studio.md)
   * [Connecting to Invana Engine](invana-studio/connecting-to-invana-engine.md)
   * [Querying the Graph](invana-studio/querying-the-graph.md)
-
-## Developer's Guide
-
----
-
-* [Python API User Guide](python-api/README.md)
-  * [Edge Operations](python-api/edge-operations.md)
-  * [Vertex Operations](python-api/vertex-operations.md)
-* [GraphQL API User Guide](graphql-api.md)
 
 ## Integrations
 
