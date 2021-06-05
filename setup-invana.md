@@ -35,7 +35,7 @@ In theory, you can run any Apache TinkerPop supported graph database as graph pr
 | service name | service available at |
 | :--- | :--- |
 | Invana Engine | http://&lt;ip-address&gt;:9200 |
-| Invana Studio | http://&lt;ip-address&gt;:8888 |
+| Invana Studio | http://&lt;ip-address&gt;:8300 |
 
 Docker compose will expose the following services, that lets you visualise and browse through the graph data. 
 
