@@ -4,7 +4,7 @@ Invana Engine is served over GraphQL, so it can be used without Invana Studio. F
 
 Invana Engine connects to the Apache TinkerPop's Gremlin Server's for communicating with the Graph Database. Below is the simple representation of how Invana Engine connects to a Graph Database.
 
-![](../.gitbook/assets/invana-engine-graph-db-setup.svg)
+![](../../.gitbook/assets/invana-engine-graph-db-setup.svg)
 
 ### Running using Docker
 

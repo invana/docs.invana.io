@@ -7,13 +7,11 @@
 
 ## Products
 
----
-
-* [Invana Studio](invana-studio/README.md)
-  * [Get Started](invana-studio/get-started.md)
-* [Invana Engine](invana-engine/README.md)
-  * [Get Started](invana-engine/get-started.md)
-  * [other installation methods](invana-engine/other-installation-methods.md)
+* [Invana Studio](products/invana-studio/README.md)
+  * [Get Started](products/invana-studio/get-started.md)
+* [Invana Engine](products/invana-engine/README.md)
+  * [Get Started](products/invana-engine/get-started.md)
+  * [other installation methods](products/invana-engine/other-installation-methods.md)
 
 ## Developer Resources <a id="developers-resources"></a>
 
