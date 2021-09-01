@@ -26,6 +26,14 @@ cd docker-templates/invana-with-neo4j
 docker-compose up
 ```
 {% endtab %}
+
+{% tab title="Using ArcadeDB" %}
+```
+git clone git@github.com:invanalabs/docker-templates.git
+cd docker-templates/invana-with-arcadedb
+docker-compose up
+```
+{% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
