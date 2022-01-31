@@ -21,4 +21,4 @@ Invana provides solutions for Graph Powered Analytics And Machine Learning.
 3. **Setup Functions** on Entities and Relationships to teach and learn patterns with in the Graph.
 4. **Query and Visualise** inferences, reasoning and analytics data as force directed graphs.
 
-Setup your first Knowledge Graph & Graph Powered Analytics Engine  with Invana in just few minutes, get started [here](setup-invana.md)
+Setup your first Knowledge Graph & Graph Powered Analytics Engine  with Invana in just few minutes, get started [here](installation.md)

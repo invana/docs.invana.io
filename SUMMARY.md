@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Invana](README.md)
-* [Installation](setup-invana.md)
-* [Build your first Graph](build-your-first-graph.md)
+* [Installation](installation.md)
 
 ## Products
 
