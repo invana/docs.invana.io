@@ -2,7 +2,7 @@
 
 ### Create Vertex Model
 
-```
+```python
 from invana.ogm import models, fields
 
 
