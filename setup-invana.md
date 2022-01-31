@@ -12,8 +12,6 @@ Invana Graph Analytics System can be deployed in your local or cloud using [dock
 
 ### Install using Docker
 
-### Setup Invana
-
 You can use the following templates to setup Invana with supported graph databases as graph processing engine.
 
 {% tabs %}
