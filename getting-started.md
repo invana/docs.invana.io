@@ -2,7 +2,7 @@
 description: Deploy Invana infrastructure using docker compose
 ---
 
-# Installation
+# Getting Started
 
 Invana Graph Analytics System can be deployed in your local or cloud using [docker compose](https://docs.docker.com/compose/).
 
@@ -11,6 +11,8 @@ Invana Graph Analytics System can be deployed in your local or cloud using [dock
 1.
 
 ### Install using Docker
+
+### Setup Invana
 
 You can use the following templates to setup Invana with supported graph databases as graph processing engine.
 
@@ -50,6 +52,16 @@ In theory, you can run any Apache TinkerPop supported graph database as graph pr
 | Apache TinkerPop Server | http://\<ip-address>:8182 |
 
 Docker compose will expose the following services, that lets you visualise and browse through the graph data.
+
+### Graph databases
+
+1. [JanusGraph](https://janusgraph.org)
+
+### Usage&#x20;
+
+* [x] Python API&#x20;
+* [ ] GraphQL API&#x20;
+* [ ] REST API
 
 Let's start with a story of graph.
 

@@ -1,13 +1,18 @@
 # Table of contents
 
 * [Invana](README.md)
-* [Installation](installation.md)
+* [Getting Started](getting-started.md)
 
 ## Products
 
+* [Python API](products/python-api/README.md)
+  * [OGM](products/python-api/ogm.md)
+  * [Indexes](products/python-api/indexes.md)
+  * [Search](products/python-api/search.md)
+  * [Schema Management](products/python-api/schema-management.md)
+  * [Event Triggers](products/python-api/event-triggers.md)
 * [Invana Engine](products/invana-engine/README.md)
-  * [Get Started](products/invana-engine/get-started.md)
-  * [other installation methods](products/invana-engine/other-installation-methods.md)
+  * [Installation](products/invana-engine/installation.md)
 
 ## Resources
 
