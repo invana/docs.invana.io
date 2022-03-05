@@ -7,6 +7,7 @@
 
 * [Python API](products/invana-engine/README.md)
   * [Modelling using OGM](products/python-api/modelling-using-ogm.md)
+  * [Data Types](products/python-api/data-types.md)
   * [Indexes](products/python-api/indexes.md)
   * [Search](products/python-api/search.md)
   * [Schema Management](products/python-api/schema-management.md)
