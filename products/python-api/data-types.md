@@ -1,6 +1,6 @@
 # Data Types
 
-#### StringProperty
+### StringProperty
 
 ```python
 // Some code
@@ -12,7 +12,7 @@ class Project(VertexModel):
     }
 ```
 
-#### **IntegerProperty**
+### **IntegerProperty**
 
 ```python
 // Some code
@@ -24,7 +24,7 @@ class Project(VertexModel):
     }
 ```
 
-#### FloatProperty
+### FloatProperty
 
 ```python
 // Some code
@@ -36,7 +36,7 @@ class Project(VertexModel):
     }
 ```
 
-#### BooleanProperty
+### BooleanProperty
 
 ```python
 // Some code
@@ -48,7 +48,7 @@ class Project(VertexModel):
     }
 ```
 
-#### DateTimeProperty
+### DateTimeProperty
 
 ```python
 // Some code
